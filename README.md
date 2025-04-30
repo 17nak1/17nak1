@@ -1,16 +1,26 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Nazila</h1>
+<h3 align="center">Software Developer | Math Enthusiast | Lifelong Learner</h3>
 
-<!--
-**17nak1/17nak1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Software Developer with a strong foundation in Mathematics, based in **Kingston, ON, Canada**.  
+Over the years, I've contributed to a variety of projects — from building web applications to designing and optimizing system solutions.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔍 I'm passionate about **problem-solving** and **continuous learning**.
+
+💡 Areas of focus:
+- Creating **intuitive user experiences**
+- Optimizing **backend processes**
+- Writing **high-quality, test-driven code**
+
+💬 I thrive in **agile** teams where I can collaborate, learn, and contribute.
+
+📚 Outside of work, I enjoy:
+- Exploring **math concepts**
+- Staying up to date with **tech trends**
+- Tackling **complex challenges**
+
+---
+
+### 📫 Get in Touch
+Feel free to explore my repositories and [connect with me](mailto:akhavan.nazila@gmail.com) if you'd like to collaborate or chat about tech!
